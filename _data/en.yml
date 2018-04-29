@@ -10,7 +10,7 @@
      home: "Home"
      categoryarticle: "Article classifications"
      tagarticle: "Article tags"
-     rssfeed: "RSS feed"
+     #rssfeed: "RSS feed"
      firstpage: "First page"
      lastpage: "Last page"
      shareto: "Share to"

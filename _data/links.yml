@@ -1,27 +1,23 @@
-- link: "http://jekyllthemes.org/themes/JOYTOU/"
-  cn: "Jekyll Themes"
-  en: "Jekyll Themes"
-
-- link: "https://www.google.com/search?q=joytou"
+- link: "https://www.google.com/"
   cn: "谷歌"
   en: "Google"
   
-- link: "https://search.yahoo.com/search?p=joytou"
+- link: "https://search.yahoo.com/"
   cn: "雅虎"
   en: "Yahoo"
    
-- link: "http://www.bing.com/search?q=joytou"
+- link: "http://www.bing.com/"
   cn: "必应"
   en: "Bing"
 
-- link: "https://www.sogou.com/web?query=joytou+blog"
+- link: "https://www.sogou.com/"
   cn: "搜狗搜索"
   en: "Sogou"
    
-- link: "https://www.so.com/s?q=joytou"
+- link: "https://www.so.com/"
   cn: "360搜索"
   en: "HaoSou"
   
-- link: "http://www.baidu.com/s?wd=site%3Ajoytou.nets.hk"
+- link: "http://www.baidu.com/"
   cn: "百度搜索"
   en: "Baidu"
