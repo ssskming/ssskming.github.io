@@ -6,7 +6,6 @@ lang: cn
 nav: post
 category: hadoop
 tags: [hadoop]
-stickie: true
 ---
 
 * content
