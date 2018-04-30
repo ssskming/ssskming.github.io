@@ -12,7 +12,7 @@ tags: [hive]
 {:toc}
 
 # hive CLI
-  <p>>在shell环境下执行一次hive命令：<p/>
+  >在shell环境下执行一次hive命令：
   <!-- more -->
     hive -e   select * from dual;
     hive -S -e select * from dua;
