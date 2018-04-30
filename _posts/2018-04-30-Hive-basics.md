@@ -7,7 +7,11 @@ nav: post
 category: hive
 tags: [hive]
 ---
-#hive CLI
+
+* content
+{:toc}
+
+# hive CLI
   <p>>在shell环境下执行一次hive命令：<p/>
   <!-- more -->
     hive -e   select * from dual;
