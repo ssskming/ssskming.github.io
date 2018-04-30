@@ -52,7 +52,7 @@ yarn jar /home/zyh/apps/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.7.2.jar
 	-D mapper `/bin/cat` \   ---不清楚作用，解压要加上，要不每条记录前会多字符
 	-D numReduceTasks 50
 ```
-![](/img/hadoop-hive/hadoop-compress.jpg)
+![](/img/hadoop-hive/hadoop-compress.jpg){:height="85%" width="85%"}
 
-    {:height="75%" width="75%"}
+    
   
