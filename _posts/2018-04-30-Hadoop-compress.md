@@ -53,3 +53,4 @@ yarn jar /home/zyh/apps/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.7.2.jar
 	-D numReduceTasks 50
 ```
 ![](/img/hadoop-hive/hadoop-compress.jpg)
+<img src="/img/hadoop-hive/hadoop-compress.jpg" width = "960" height = "870" alt="压缩解压" align=center />
