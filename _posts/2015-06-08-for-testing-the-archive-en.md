@@ -5,7 +5,7 @@ date: 2015-06-08 14:25:00 +0800
 lang: en
 nav: post
 category: test
-tags: [test, archive]
+tags: [test]
 ---
 
 * content

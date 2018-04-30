@@ -4,8 +4,8 @@ title: "为Jekyll网站添加多语言功能"
 date: 2017-08-07 10:08:00 +0800
 lang: cn
 nav: post
-category: personal
-tags: [jekyll, multiple-languages]
+category: test
+tags: [test]
 ---
 
 * content
