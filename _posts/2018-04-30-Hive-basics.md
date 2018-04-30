@@ -14,8 +14,8 @@ tags: [hive]
 # hive CLI
   >在shell环境下执行一次hive命令：
   <!-- more -->
-    hive -e   select * from dual;
-    hive -S -e select * from dua;
+    hive -e   select * from dual;  
+    hive -S -e select * from dua;  
     **-S**  是为了开启静默模式，除去类似OK等字样
 
 **例子**
