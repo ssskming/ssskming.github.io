@@ -30,7 +30,7 @@ exclude: ['README.md','Manifest.md']
 include: ['robots.txt']
 
 # Description
-description: "有生以来，有生之年"
+description: "有生以来，有生之年；没有谁对不起谁，只有自己对不起自己。"
 # Keywords
 keywords:
         - "github"
